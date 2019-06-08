@@ -1,0 +1,32 @@
+.gallery {
+    margin: 15px;
+    border: 1px solid #ccc;
+    float: left;
+    width:250px;
+    height:402px;
+	 border-style: solid;
+        border-width: 1px;
+        border-color: black;
+
+}
+
+.gallery:hover {
+    border: 2px solid #6495ED;
+}
+
+.gallery img {
+    width: 245px;
+    height: 300px;
+}
+.imgs{
+    position: left;
+    top: 0px;
+	height: 100px;
+}
+.desc {
+	background-color:	#BDB76B;
+    padding: 12px;
+    text-align: center;
+    font-family: Arial Black;
+	border-top: 1px solid black;
+}
