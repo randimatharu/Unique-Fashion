@@ -38,9 +38,6 @@ session_start();
 				<button class="button">Categories</button>
 				
 				<ul>
-					<li>
-						<a href="Special offers.php">Special Offers</a>
-					</li><br><br>
 
 					<li>
 						<a href="Ladies Wears.php">Ladies Wear</a>
@@ -56,6 +53,10 @@ session_start();
 					
 					<li>
 						<a href="shoes.php">Shoes</a>
+					</li><br><br>
+
+					<li>
+						<a href="Special offers.php">Watches</a>
 					</li><br><br>
 
 					<li>

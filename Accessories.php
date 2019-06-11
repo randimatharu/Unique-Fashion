@@ -41,9 +41,6 @@
 				<button class="button">Categories</button>
 				
 				<ul>
-					<li>
-						<a href="Special offers.php">Special Offers</a>
-					</li><br><br>
 
 					<li>
 						<a href="Ladies Wears.php">Ladies Wear</a>
@@ -59,7 +56,11 @@
 					
 					<li>
 					<a href="Shoes.php">Shoes</a>
-				    </li><br><br>
+				    	</li><br><br>
+
+					<li>
+						<a href="Special offers.php">Watches</a>
+					</li><br><br>
 
 					<li>
 						<a href="Accessories.php">Accessories</a>
